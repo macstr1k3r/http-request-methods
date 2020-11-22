@@ -1,9 +1,9 @@
 {
   "name": "http-request-methods",
   "repository": "github.com:macstr1k3r/http-request-methods.git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An enum of http request methods",
-  "main": "index.js",
+  "main": "js/index.js",
   "author": "Darko Stojkovski",
   "license": "MIT",
   "private": false,
